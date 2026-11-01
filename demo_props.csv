@@ -1,0 +1,5 @@
+player,market,side,line,odds,bookmaker,game,commence_time
+Demo Runner,player_rush_yds,Over,50.5,-110,FICTIONAL,DEMO @ DEMO,2026-11-01T18:00:00Z
+Demo Runner,player_rush_yds,Under,50.5,-110,FICTIONAL,DEMO @ DEMO,2026-11-01T18:00:00Z
+Demo Receiver,player_reception_yds,Over,64.5,-110,FICTIONAL,DEMO @ DEMO,2026-11-01T18:00:00Z
+Demo Receiver,player_receptions,Under,5.5,-105,FICTIONAL,DEMO @ DEMO,2026-11-01T18:00:00Z
